@@ -4,7 +4,7 @@ public class addtwointegers_2 {
         Scanner number=new Scanner(System.in);
         System.out.println("enter first number ");
         int no1=number.nextInt();
-        System.out.println("enter 2nd number ");
+        System.out.println("enter 2nd number and ");
         int no2=number.nextInt();
         number.close();
         int sum=no1+no2;
