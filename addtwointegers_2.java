@@ -8,6 +8,7 @@ public class addtwointegers_2 {
         int no2=number.nextInt();
         number.close();
         int sum=no1+no2;
+        //
         System.out.println("sum of the number  is :"+sum);
 
     }
