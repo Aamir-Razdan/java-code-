@@ -10,6 +10,8 @@ public class ascii{
         charecter.close();
         int ascii=newch;
 
+
+        
         System.out.println("ASCII value of the charecter is "+newch+" is "+ascii);
 
     }
