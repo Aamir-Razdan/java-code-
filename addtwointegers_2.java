@@ -9,6 +9,7 @@ public class addtwointegers_2 {
         number.close();
         int sum=no1+no2;
         //
+        
         System.out.println("sum of the number  is :"+sum);
 
     }
