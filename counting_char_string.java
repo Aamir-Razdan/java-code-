@@ -16,6 +16,7 @@ class reverse_string{
                 count++;
             }
         }
+        
         System.out.println("no of a "+charecter+" is "+count);
 
 
